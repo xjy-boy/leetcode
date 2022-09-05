@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\WZ\code\cpp_code\leetcode\Offer II 049\Offer II 049\main.cpp(72,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 049\Offer II 049\main.cpp(81,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 049\Offer II 049\main.cpp(89,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 049\Offer II 049\main.cpp(96,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 049\Offer II 049\main.cpp(161,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 049\Offer II 049\main.cpp(164,1): warning C4244: “+=”: 从“double”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+  Offer II 049.vcxproj -> C:\WZ\code\cpp_code\leetcode\Offer II 049\Debug\Offer II 049.exe

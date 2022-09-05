@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\229\229\main.cpp(56,20): warning C4018: “>”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\229\229\main.cpp(60,19): warning C4018: “>”: 有符号/无符号不匹配
+  229.vcxproj -> D:\WZ\code\cpp_code\leetcode\229\Debug\229.exe

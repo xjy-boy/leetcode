@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\WZ\code\cpp_code\leetcode\Offer II 063\Offer II 063\main.cpp(78,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 063\Offer II 063\main.cpp(80,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 063\Offer II 063\main.cpp(64): warning C4715: “Trie::getRoot”: 不是所有的控件路径都返回值
+  Offer II 063.vcxproj -> C:\WZ\code\cpp_code\leetcode\Offer II 063\Debug\Offer II 063.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\WZ\code\cpp_code\leetcode\963\963\main.cpp(18,33): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+C:\WZ\code\cpp_code\leetcode\963\963\main.cpp(38,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\963\963\main.cpp(39,43): warning C4018: “<”: 有符号/无符号不匹配
+  963.vcxproj -> C:\WZ\code\cpp_code\leetcode\963\Debug\963.exe

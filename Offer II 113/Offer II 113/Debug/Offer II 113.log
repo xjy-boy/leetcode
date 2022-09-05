@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\Offer II 113\Offer II 113\main.cpp(14,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\Offer II 113\Offer II 113\main.cpp(20,27): warning C4018: “<”: 有符号/无符号不匹配
+  Offer II 113.vcxproj -> D:\WZ\code\cpp_code\leetcode\Offer II 113\Debug\Offer II 113.exe

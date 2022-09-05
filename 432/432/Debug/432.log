@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\432\432\main.cpp(40,23): warning C4018: “>=”: 有符号/无符号不匹配
+  432.vcxproj -> D:\WZ\code\cpp_code\leetcode\432\Debug\432.exe

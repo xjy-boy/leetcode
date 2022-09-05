@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\321\321\main.cpp(70,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\321\321\main.cpp(70,60): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\321\321\main.cpp(135,38): warning C4018: “<”: 有符号/无符号不匹配
+  321.vcxproj -> D:\WZ\code\cpp_code\leetcode\321\Debug\321.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\Offer 43\Offer 43\main.cpp(17,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Offer 43.vcxproj -> D:\WZ\code\cpp_code\leetcode\Offer 43\Debug\Offer 43.exe

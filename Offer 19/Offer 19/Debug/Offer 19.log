@@ -1,0 +1,5 @@
+﻿  mai.cpp
+D:\WZ\code\cpp_code\leetcode\Offer 19\Offer 19\mai.cpp(13,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\Offer 19\Offer 19\mai.cpp(15,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\Offer 19\Offer 19\mai.cpp(23,28): warning C4018: “<”: 有符号/无符号不匹配
+  Offer 19.vcxproj -> D:\WZ\code\cpp_code\leetcode\Offer 19\Debug\Offer 19.exe

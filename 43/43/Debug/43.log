@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\WZ\code\cpp_code\leetcode\43\43\main.cpp(17,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\43\43\main.cpp(20,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\43\43\main.cpp(24,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\43\43\main.cpp(42,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\43\43\main.cpp(44,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\43\43\main.cpp(47,45): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\43\43\main.cpp(63,27): warning C4018: “<”: 有符号/无符号不匹配
+  43.vcxproj -> C:\WZ\code\cpp_code\leetcode\43\Debug\43.exe

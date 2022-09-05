@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\466\466\main.cpp(15,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\466\466\main.cpp(40,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\466\466\main.cpp(47,28): warning C4018: “>=”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\466\466\main.cpp(60,28): warning C4018: “>=”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\466\466\main.cpp(129,24): warning C4018: “>=”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\466\466\main.cpp(134,24): warning C4018: “>=”: 有符号/无符号不匹配
+  466.vcxproj -> D:\WZ\code\cpp_code\leetcode\466\Debug\466.exe

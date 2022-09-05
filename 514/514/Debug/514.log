@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(23,22): warning C4018: “>=”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(36,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(64,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(74,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(79,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(85,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(91,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(94,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\514\514\main.cpp(111,27): warning C4018: “<”: 有符号/无符号不匹配
+  514.vcxproj -> D:\WZ\code\cpp_code\leetcode\514\Debug\514.exe

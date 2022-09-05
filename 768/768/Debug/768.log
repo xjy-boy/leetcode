@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\768\768\main.cpp(15,27): warning C4018: “<”: 有符号/无符号不匹配
+  768.vcxproj -> D:\WZ\code\cpp_code\leetcode\768\Debug\768.exe

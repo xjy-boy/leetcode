@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\WZ\code\cpp_code\leetcode\Offer II 564\Offer II 564\main.cpp(11,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 564\Offer II 564\main.cpp(40,45): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\Offer II 564\Offer II 564\main.cpp(56,43): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+C:\WZ\code\cpp_code\leetcode\Offer II 564\Offer II 564\main.cpp(60,43): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  Offer II 564.vcxproj -> C:\WZ\code\cpp_code\leetcode\Offer II 564\Debug\Offer II 564.exe

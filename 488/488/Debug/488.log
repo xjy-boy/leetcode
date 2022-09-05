@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\488\488\main.cpp(81,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\488\488\main.cpp(117,31): warning C4018: “<=”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\488\488\main.cpp(123,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\488\488\main.cpp(124,33): warning C4018: “<”: 有符号/无符号不匹配
+  488.vcxproj -> D:\WZ\code\cpp_code\leetcode\488\Debug\488.exe

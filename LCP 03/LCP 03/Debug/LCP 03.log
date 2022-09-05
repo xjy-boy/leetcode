@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\WZ\code\cpp_code\leetcode\LCP 03\LCP 03\main.cpp(13,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\LCP 03\LCP 03\main.cpp(33,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\WZ\code\cpp_code\leetcode\LCP 03\LCP 03\main.cpp(63,31): warning C4018: “<”: 有符号/无符号不匹配
+  LCP 03.vcxproj -> C:\WZ\code\cpp_code\leetcode\LCP 03\Debug\LCP 03.exe

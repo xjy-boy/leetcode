@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\Offer 14-I\Offer 14-I\main.cpp(39,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\WZ\code\cpp_code\leetcode\Offer 14-I\Offer 14-I\main.cpp(43,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Offer 14-I.vcxproj -> D:\WZ\code\cpp_code\leetcode\Offer 14-I\Debug\Offer 14-I.exe

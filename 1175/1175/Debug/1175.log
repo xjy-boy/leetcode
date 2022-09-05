@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\1175\1175\main.cpp(7,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\WZ\code\cpp_code\leetcode\1175\1175\main.cpp(53,14): warning C4309: “初始化”: 截断常量值
+  1175.vcxproj -> D:\WZ\code\cpp_code\leetcode\1175\Debug\1175.exe

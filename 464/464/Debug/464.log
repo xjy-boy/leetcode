@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\464\464\main.cpp(21,33): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+  464.vcxproj -> D:\WZ\code\cpp_code\leetcode\464\Debug\464.exe

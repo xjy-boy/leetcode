@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\307\307\main.cpp(19,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\307\307\main.cpp(27,22): warning C4018: “<”: 有符号/无符号不匹配
+  307.vcxproj -> D:\WZ\code\cpp_code\leetcode\307\Debug\307.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\166\166\main.cpp(69,21): warning C4244: “参数”: 从“long”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+  166.vcxproj -> D:\WZ\code\cpp_code\leetcode\166\Debug\166.exe

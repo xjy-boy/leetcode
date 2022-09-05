@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\633\633\main.cpp(10,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\WZ\code\cpp_code\leetcode\633\633\main.cpp(26,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\WZ\code\cpp_code\leetcode\633\633\main.cpp(30,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  633.vcxproj -> D:\WZ\code\cpp_code\leetcode\633\Debug\633.exe

@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(9,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(13,19): warning C4018: “>=”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(46,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(50,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(60,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(71,36): warning C4018: “>=”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(78,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(81,41): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(89,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\468\468\main.cpp(100,36): warning C4018: “>=”: 有符号/无符号不匹配
+  468.vcxproj -> D:\WZ\code\cpp_code\leetcode\468\Debug\468.exe

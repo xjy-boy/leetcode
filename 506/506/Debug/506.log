@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\WZ\code\cpp_code\leetcode\506\506\main.cpp(13,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\WZ\code\cpp_code\leetcode\506\506\main.cpp(29,27): warning C4018: “<”: 有符号/无符号不匹配
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\WZ\code\cpp_code\leetcode\506\Debug\506.exe : fatal error LNK1120: 1 个无法解析的外部命令

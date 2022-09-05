@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\riven\source\repos\387\387\main.cpp(10,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\riven\source\repos\387\387\main.cpp(18,17): warning C4018: “>=”: 有符号/无符号不匹配
+  387.vcxproj -> C:\Users\riven\source\repos\387\Debug\387.exe
